@@ -1,0 +1,93 @@
+body
+{
+	padding:0 44px;
+	margin:0 auto;
+	width:892px;	
+	height:1386px;
+	font-size:12px;
+	color:#767777;
+	font-family:"宋体";	
+}
+#top table
+{
+	border-spacing:0;	
+}
+#top td
+{
+	background-color:#d45d5c;
+	color:#fff;
+	width:108px;
+	height:59px;
+	font-size:6px;		
+	vertical-align:bottom;
+	text-align:center;
+}
+hr
+{
+	height:2px;
+	background-color:#938e8c;
+	margin:0 0 34px 0;
+	border:none;
+}
+#img1
+{
+	position:relative;
+	width:641px;
+	height:301px;
+}
+#img1 img
+{
+	display:block;	
+}
+.green 
+{
+	width:191px;
+	height:301px;
+	position:absolute;
+	top:0;
+	left:0;
+	background-color:green;
+	opacity:0.3;
+}
+.red
+{
+	width:191px;
+	height:301px;
+	position:absolute;
+	top:0;
+	right:0;
+	background-color:red;
+	opacity:0.3;
+}
+#text1
+{
+	float:right;
+	height:279px;
+	width:203px;
+	border-top:2px solid #cc8091;
+	font-family:"微软雅黑";
+	padding-top:20px;
+}
+#text1 b
+{
+	font-size:16px;
+	color:#000;	
+	border-bottom:1px solid #ooo;
+	margin:0;
+}
+#text1 b span
+{
+	font-size:24px;
+}
+#text1 p 
+{
+	font-size:12px;
+	margin:5px 0;
+}
+#text1 i
+{
+	font-size:116px;
+	color:#75b86b;
+	font-family:"微软雅黑";
+	padding:0;
+}
